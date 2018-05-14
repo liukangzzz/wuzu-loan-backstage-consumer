@@ -1,0 +1,10 @@
+server:
+  port: 8080
+servlet:
+  context-path: /b
+spring:
+ datasource:
+    url: jdbc:mysql://192.168.31.224:3308/1710b
+    username: liukang
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
